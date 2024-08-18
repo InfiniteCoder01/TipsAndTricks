@@ -1,1 +1,2 @@
-# TipsAndTricks
+# Tips and tricks
+Useful stuff
